@@ -1,0 +1,6 @@
+{
+  "name": "TheAutoDip – Smart Garbage Vehicle Tracking & Cleanliness Management",
+  "description": "Smart Garbage Vehicle Tracking & City Cleanliness Management System with multi-city role-based portals, live GPS tracking, complaint resolution, driver attendance, and automated reporting.",
+  "requestFramePermissions": ["camera", "geolocation"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
